@@ -1,0 +1,80 @@
+﻿body 
+{
+    direction:rtl;
+}
+#img1 {
+    height: 400px;
+    width: 100%;
+    background-image: url('../images/beverage-3157395_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+h1 {
+    border:solid 2px white;
+    text-align: center;
+    color: #8FA191;
+    font-size:40px;
+}
+header {
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+#container {
+    background-color: #3D3936;
+    height: 750px;
+    width: 1500px;
+    font-size: large;
+}
+
+footer{
+    margin-top:5px;
+    margin-right:350px;
+    background-color:white;
+   
+}
+#Send {
+    border-color: #8FA191;
+    font-family: 'Varela Round', sans-serif;
+    color: ghostwhite;
+    width: 100px;
+    background-color: dimgray;
+}
+
+#myEmail {
+    border-color: #8FA191;
+    font-family: 'Varela Round', sans-serif;
+    background-color: gainsboro;
+}
+#myphone {
+    border-color: #8FA191;
+    font-family: 'Varela Round', sans-serif;
+    background-color: gainsboro;
+}
+#LastName {
+    border-color: #8FA191;
+    font-family: 'Varela Round', sans-serif;
+    background-color: gainsboro;
+}
+#FirstName {
+    border-color: #8FA191;
+    font-family: 'Varela Round', sans-serif;
+    background-color: gainsboro;
+}
+
+#icon:hover {
+     -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+     -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
+}
+
+#icon{
+    margin-right:320px;
+    margin-top:5px;
+
+}
